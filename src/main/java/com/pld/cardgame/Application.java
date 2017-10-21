@@ -1,4 +1,4 @@
-package hello;
+package com.pld.cardgame;
 
 import java.util.Arrays;
 
