@@ -1,0 +1,20 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "type": "investigator",
+      "title": "Roland Banks",
+      "investigator": {
+        "title": "The Fed",
+        "stats": {
+          "willpower": 3,
+          "intellect": 3,
+          "combat": 4,
+          "agility": 2,
+          "health": 9,
+          "sanity": 5
+        }
+      }
+    }
+  ]
+}
